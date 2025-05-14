@@ -24,13 +24,17 @@ Este repositório possui infromações sobre professores, alunos e disciplinas.
 Esta api gerencia sitemas de uma faculdade tendo as entidades professores, alunos e turmas/disciplina.
 Este microsserviço faz parte de outro sistema que devem ser executados simultaneamente:
 
-[fork_Caio_servico | Alle84fr](https://github.com/Alle84fr/fork_Caio_servico.git)
+<br>[Projeto original | Caio-ireno](https://github.com/caio-ireno/Flask-microservice-mvc.git)
+<br>[fork_Caio_servico | Alle84fr](https://github.com/Alle84fr/fork_Caio_servico.git)
 <br>
 <br>
 
 ## 🔌Tecnologias
 <br>
-&nbsp;&nbsp;&nbsp;<img src="imagens\image-5.png" alt="alt text" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imagens\image-9.png" alt="alt text" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imagens\image-7.png" alt="alt text" width="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="C:\Users\arfur\fork_caio_pessoa\imagens\image-8.png" alt="alt text" width="150"/>
+<img src="imagens\image-5.png" alt="alt text" width="70"/> 
+<img src="imagens\image-9.png" alt="alt text" width="80" />
+<img src="imagens\image-7.png" alt="alt text" width="150" />
+<img src="imagens\image-8.png" alt="alt text" width="150"/>
 <br>
 <br>
 
